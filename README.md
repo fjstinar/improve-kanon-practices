@@ -13,7 +13,7 @@ This project implemented a way to guide the k-anonymization process toward strat
 - docker
 
 ### Executing Program
-A walkthrough of our method can be found in 'base-kanon-alldata.ipynb'.
+A walkthrough of our method can be found in 'base-kanon-alldata.ipynb'. The datasets can be found through the citations in the paper.
 
 
 
