@@ -17,4 +17,4 @@ A walkthrough of our method can be found in 'base-kanon-alldata.ipynb'. The data
 
 
 
-We utilize GitHub as our hosting platform and will continue to rely on the GitHub issue tracker system for maintenance purposes. This open source software is provided under the MIT License.
+This open source software is provided under the MIT License. We will continue to monitor and use GitHub as our version control and issue manager.
